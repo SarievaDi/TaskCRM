@@ -1,0 +1,7 @@
+C:\Users\Диана\source\repos\JusanTaskCRM\bin\Debug\JusanTaskCRM.exe.config
+C:\Users\Диана\source\repos\JusanTaskCRM\bin\Debug\JusanTaskCRM.exe
+C:\Users\Диана\source\repos\JusanTaskCRM\bin\Debug\JusanTaskCRM.pdb
+C:\Users\Диана\source\repos\JusanTaskCRM\obj\Debug\JusanTaskCRM.csproj.CoreCompileInputs.cache
+C:\Users\Диана\source\repos\JusanTaskCRM\obj\Debug\JusanTaskCRM.exe
+C:\Users\Диана\source\repos\JusanTaskCRM\obj\Debug\JusanTaskCRM.pdb
+C:\Users\Диана\source\repos\JusanTaskCRM\obj\Debug\JusanTaskCRM.csprojAssemblyReference.cache
